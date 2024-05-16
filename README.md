@@ -14,6 +14,12 @@ This is my Backup configuration files for the following setup:
 <b>Power Supply:</b> 24v 20A Switchmode Supply<br>
 <b>OS:</b> <a href="https://www.klipper3d.org/">Klipper</a> with <a href="https://docs.mainsail.xyz/setup/getting-started/kiauh">Kiauh</a> running on a Raspberry Pi 3B<br>
 <b>File:</b>
+<li>moonraker.conf  - <i>default moonraker configuration</i></li>
+<li>printer.cfg - <i>default printer configuration</i></li>
+<li>macro.cfg - <i>default macros for printing</i></li>
+<li>crowsnest.conf  - <i>configuration for camera setup</i></li>
 <li>neo.cfg - <i>configuration of neo connection and number of led's</i></li>
 <li>led_progress.cfg - <i>LED Templates</i></li>
-<li>macro.cfg - <i>default macros for printing</i></li>
+<li>adxl.cfg - <i>configuration for resonant testing</i></li>
+<li>timelapse.cfg - <i>default timelapse setup</i></li>
+<li>fluidd.cfg - <i>default fluidd setup</i></li>
