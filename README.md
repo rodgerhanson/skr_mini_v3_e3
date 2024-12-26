@@ -27,4 +27,5 @@ This is my Backup configuration files for the following setup:
 
 
 Sprite Extruder Pro Kit (https://www.creality.com/products/sprite-extruder-pro-kit).
-BTT SKR MINI E3 V3.0  (https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3?srsltid=AfmBOorQvjTx6qeLDB24hxJq0dZZ3m35Ynaj-aBwlqAzdeQwv4hDPEF3)
+
+BTT SKR MINI E3 V3.0  (https://biqu.equipment/products/bigtreetech-skr-mini-e3-v2-0-32-bit-control-board-for-ender-3?srsltid=AfmBOorQvjTx6qeLDB24hxJq0dZZ3m35Ynaj-aBwlqAzdeQwv4hDPEF3).
