@@ -1,4 +1,5 @@
-Klipper on Ender 3 style Printer with BTT SKR MINI E3 V3 motherboard and Neopixel Lights
+Klipper on Ender 3 style Printer with BTT SKR MINI E3 V3 motherboard 
+with the Sprite Extruder Pro Kit and Neopixel Lights
 # klipper-backup 💾 
 Klipper backup script for manual or automated GitHub backups 
 
