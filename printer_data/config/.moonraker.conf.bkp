@@ -1,3 +1,11 @@
+[update_manager YUMI_PLR]
+type = git_repo
+path = ~/YUMI_PLR
+origin = https://github.com/Yumi-Lab/YUMI_PLR.git
+primary_branch = main
+install_script = install.sh
+is_system_service = False
+
 [server]
 host = 0.0.0.0
 port = 7125
